@@ -26,7 +26,7 @@ The text in the previous secon can be turned into list with bullets or numbers
 3. For creating *italics* simply use * or _ around text
 4. These can be combined around \_\_\*\*text\*\*\_\_ to create _**italic bold**_
 ## Task lists
--[X] Task 1
+- [X] Task 1
 -[X] Task 2
 -[X] Task 3
 -[ ] Task 4 is not complete
