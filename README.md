@@ -54,3 +54,9 @@ class TestSum(unittest.TestCase):
 if __name__ = '__main__'
   unittest.main()
 ```
+## Adding Links
+This link to [GitHub Markdown Reference](https://guides.github.com/features/mastering-markdown/) was created using the following syntax<br/>
+\[text\](link)
+## Adding an Image from web
+![Alt text](https://www.conncoll.edu/media/website-media/visualidentity/images/Seal-Color.jpg)
+!\[Alt text\](url)
