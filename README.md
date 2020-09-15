@@ -12,5 +12,12 @@ You can add different levels of headers easily.
 For creating **bold** simply add ** before and after the characters.
 For creating ~~StrikeThrough~~ add ~~ around text. Make sure not to leave **any spaces between text and these special characters**
 For creating *italics* simply use * or _ around text
-These can be combined around \_\_\*\*text\*\*\_\_ to create _**italic bold*_
+These can be combined around \_\_\*\*text\*\*\_\_ to create _**italic bold**_
+## Lists
+The text in the previous secon can be turned into list with bullets or numbers
+## As bulletted list
+- For creating **bold** simply add ** before and after the characters.
+- For creating ~~StrikeThrough~~ add ~~ around text. Make sure not to leave **any spaces between text and these special characters**
+- For creating *italics* simply use * or _ around text
+- These can be combined around \_\_\*\*text\*\*\_\_ to create _**italic bold**_
 
