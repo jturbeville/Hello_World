@@ -34,5 +34,11 @@ The text in the previous secon can be turned into list with bullets or numbers
 Remember:<br/>
 > **Markdown** has many flavors. For GitHub readme files, remember to use the related
 syntax.
+## Tables
+c1 | c2 | c3
+-- | -- | --
+a1 | b1 | c1
+a2 | b2 | c2
+a3 | b3 | c3
 
 
